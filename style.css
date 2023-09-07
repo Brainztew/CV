@@ -1,12 +1,23 @@
-
-.headertext{ 
-    
-    background-color: orange;
-    color: black;
-    height: 9rem;
+.headertop img {
+    float: left;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
     padding-left: 1rem;
+    padding-top: 1rem;
+  }
+  
+  .headertop h1 {
     padding-top: 2rem;
-}
+    position: relative;
+    top: 18px;
+    left: 10px;
+  }
+
+  header{
+    background-color: orange;
+    height: 9rem;
+  }
 
 main{
     padding: 3rem;
