@@ -39,7 +39,7 @@ footer{
     
 }
 
-#kontakt {
+.kontakt {
     position: fixed;
     left: 640px;
     background-color: orange;
@@ -49,7 +49,9 @@ footer{
     color: black;
     border-radius: 50%;
 }
-
+.kontakt p{
+    padding-top: 80px;
+}
 #first{
     float: right;
     padding-right: 40rem;
