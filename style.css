@@ -22,7 +22,7 @@
 
 main{
     padding: 3rem;
-    height: 60rem;
+    height: 45rem;
     background-color: white;
     color: black;
 
@@ -79,4 +79,14 @@ footer{
     gap: 20px;
     background-color: rgb(240, 225, 95);
     padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    
+}
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.githubrepo-link {
+    text-decoration: none;
+    color: #000000;
 }
