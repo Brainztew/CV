@@ -22,10 +22,12 @@
 
 main{
     padding: 3rem;
-    height: 45rem;
     background-color: white;
     color: black;
 
+}
+#Ommigstyle{
+ height: 30rem;
 }
 
 footer{
